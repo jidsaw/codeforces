@@ -1,3 +1,4 @@
-x = int(input())
-print(x)
-print('hello')
+n = int(input())
+s = set(input().split())
+
+print(len(s))
